@@ -1,0 +1,13 @@
+set account to pc using commands
+    git config --global user.name "<username>"
+    git config --global useremail "<email>"
+
+getting clone commands
+    git clone <link of the clone project>
+
+Functions made to create and modified the existing file
+    create folder in pc-> add to git --> comit the changes--> push to git hub
+commands:
+        pc--> git add <foldername>--> git commit -m "<message>"--> git push orgin <branch/main>
+
+        check the status --> git status

@@ -1,0 +1,22 @@
+set account to pc using commands
+    git config --global user.name "<username>"
+    git config --global useremail "<email>"
+
+getting clone commands
+    git clone <link of the clone project>
+
+check the status --> git status
+
+Functions made to create and modified the existing file and delete file
+    create folder in pc-> add git file in pc-->check status-->add to git --> comit the changes--> push to git hub
+commands:
+        pc-->git init--> git status--> git add <foldername>--> git commit -m "<message>"--> git push orgin <branch/main>
+ 
+ create new repository from pc--> git remote add orgin <branch name>  --> git branch git push orgin <master>
+Git Chanages to Local system  --git pull
+        
+merge the branch to main--> git merge <branch name>
+
+list branch --> git branch -a---> git checkout <branch name> (switch from brnach name to main)
+
+        
